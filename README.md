@@ -12,3 +12,4 @@ Parameters description:
 - Chance of Admit ( ranging from 0 to 1 )
 
 #### We developed a predictive regression model using an artificial neural network (ANN) to forecast graduate admission chances. This model assists students in identifying universities that align well with their profiles, offering a realistic assessment of their admission probabilities. The predicted outcomes provide students with valuable insights to make informed decisions about their university applications.
+##### This project utilizes a dataset sourced from Kaggle, and the model is developed solely for practice and learning purposes.
